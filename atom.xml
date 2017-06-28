@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>罗建生的个人网站</title>
-  
+  <title>Luo&#39;s Blog</title>
+  <subtitle>一个不会编程的程序员</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
